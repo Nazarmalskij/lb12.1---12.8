@@ -1,0 +1,5 @@
+﻿  UnitTest12.3_I.cpp
+D:\Project\lb12\LB12.3_I\Source.cpp(27,10): warning C4101: 'result': unreferenced local variable
+D:\Project\lb12\LB12.3_I\Source.cpp(29,19): warning C4101: 'L': unreferenced local variable
+D:\Project\lb12\LB12.3_I\UnitTest12.3_I\UnitTest12.3_I.cpp(15,9): warning C4101: 'info': unreferenced local variable
+D:\Project\lb12\LB12.3_I\UnitTest12.3_I\UnitTest12.3_I.cpp(17): error C4700: uninitialized local variable 'L' used
